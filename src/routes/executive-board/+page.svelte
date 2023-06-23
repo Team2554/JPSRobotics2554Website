@@ -8,8 +8,8 @@
 	<div class="border border-green-800 mt-6 rounded" />
 	<div class="grid grid-cols-3 text-white mt-5">
 		<div>
-			<h3 class="text-3xl uppercase font-bold">Build President</h3>
-			<p class="text-2xl mt-4">Vivek Isukapalli</p>
+			<h3 class="text-3xl uppercase font-bold">Build Presidents</h3>
+			<p class="text-2xl mt-4">Krishan Trikha, Naishadh Patel</p>
 		</div>
 		<div>
 			<h3 class="text-3xl uppercase font-bold">Club Advisor</h3>
@@ -17,37 +17,41 @@
 		</div>
 		<div>
 			<h3 class="text-3xl uppercase font-bold">Administrative President</h3>
-			<p class="text-2xl mt-4">Nazmin Abbasi</p>
+			<p class="text-2xl mt-4">Sai Voruganti</p>
 		</div>
 	</div>
 </div>
 
 <h2 class="uppercase text-center text-4xl font-medium text-green-900 mt-10">
-	2023 Subteam Capitains
+	2024 Subteam Captains
 </h2>
 
 <div class="max-w-5xl mx-auto pt-2">
 	<div class="text-center mt-7 text-2xl">
 		<p>
-			<span class="font-semibold">Mechanical Captains:</span> Krishan Trikha, Heet Chauhan, Krishna Mansukhani,
-			Aryan Shah
+			<span class="font-semibold">Mechanical Captains:</span> Anuj Choudhari, Addway Chawathe, Daniel Park, & Ishaan Brahma
 		</p>
 		<br />
 		<p>
-			<span class="font-semibold">Electrical Captains:</span> Mihir Chanduka, Shashwath Thiyagarajan,
-			Pranaya Murugan
+			<span class="font-semibold">Electrical Captains:</span> Pranaya Murugan, Dev Shah, Arjun Chainani, & Zulal Ozgur
 		</p>
 		<br />
 		<p>
-			<span class="font-semibold">Programming Captains:</span> Sai Voruganti & Naishadh Patel
+			<span class="font-semibold">Programming Captains:</span> Amruth Nadimpally & Aditya Saini
 		</p>
 		<br />
 		<p>
-			<span class="font-semibold">Safety Captains:</span> Daniel Park & Adway Chawathe
+			<span class="font-semibold">Safety Captain:</span> Jahnavi Singh
 		</p>
 		<br />
 		<p>
-			<span class="font-semibold">Marketing Captain:</span> Keith Yao
+			<span class="font-semibold">PR, Communications, and Social Media Manager:</span> Troy Gunawardene
+		</p>
+		<p>
+			<span class="font-semibold">PR Associates:</span> Andrew Ikemoto, Srimanas Adaki, & Simar Rajpal
+		</p>
+		<p>
+			<span class="font-semibold">Webmaster:</span> Dhairya Sarvaiya
 		</p>
 	</div>
 </div>
@@ -57,6 +61,10 @@
 <div class="pt-2 pb-10 mt-12 bg-amber-400">
 	<h2 class="uppercase text-center text-4xl font-medium text-green-900 mt-10">Legacy</h2>
 	<div class="text-center mt-7 text-2xl">
+		<p>
+			<span class="font-semibold">2022 Presidents:</span> Nazmin Abbasi & Vivek Isukapalli
+		</p>
+		<br />
 		<p>
 			<span class="font-semibold">2022 Presidents:</span> Vian Miranda, Priya Abiram, Soham Chawathe
 		</p>
