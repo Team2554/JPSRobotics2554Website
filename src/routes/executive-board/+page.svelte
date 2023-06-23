@@ -66,7 +66,7 @@
 	<h2 class="uppercase text-center text-4xl font-medium text-green-900 mt-10">Legacy</h2>
 	<div class="text-center mt-7 text-2xl">
 		<p>
-			<span class="font-semibold">2022 Presidents:</span> Nazmin Abbasi & Vivek Isukapalli
+			<span class="font-semibold">2023 Presidents:</span> Nazmin Abbasi & Vivek Isukapalli
 		</p>
 		<br />
 		<p>
