@@ -4,12 +4,12 @@
 
 <div class="p-20 bg-emerald-900 text-center flex flex-col justify-center align-middle">
 	<h1 class="text-7xl uppercase text-white font-semibold">The Executive Board</h1>
-	<h2 class="text-white mt-4 text-xl">This is our 2022-2023 Robotics Executive Board!</h2>
+	<h2 class="text-white mt-4 text-xl">This is our 2023-2024 Robotics Executive Board!</h2>
 	<div class="border border-green-800 mt-6 rounded" />
 	<div class="grid grid-cols-3 text-white mt-5">
 		<div>
 			<h3 class="text-3xl uppercase font-bold">Build Presidents</h3>
-			<p class="text-2xl mt-4">Krishan Trikha, Naishadh Patel</p>
+			<p class="text-2xl mt-4">Krishan Trikha & Naishadh Patel</p>
 		</div>
 		<div>
 			<h3 class="text-3xl uppercase font-bold">Club Advisor</h3>
@@ -29,11 +29,13 @@
 <div class="max-w-5xl mx-auto pt-2">
 	<div class="text-center mt-7 text-2xl">
 		<p>
-			<span class="font-semibold">Mechanical Captains:</span> Anuj Choudhari, Addway Chawathe, Daniel Park, & Ishaan Brahma
+			<span class="font-semibold">Mechanical Captains:</span> Anuj Choudhari, Adway Chawathe, Daniel
+			Park, & Ishaan Brahma
 		</p>
 		<br />
 		<p>
-			<span class="font-semibold">Electrical Captains:</span> Pranaya Murugan, Dev Shah, Arjun Chainani, & Zulal Ozgur
+			<span class="font-semibold">Electrical Captains:</span> Pranaya Murugan, Dev Shah, Arjun Chainani,
+			& Zulal Ozgur
 		</p>
 		<br />
 		<p>
@@ -47,9 +49,11 @@
 		<p>
 			<span class="font-semibold">PR, Communications, and Social Media Manager:</span> Troy Gunawardene
 		</p>
+		<br />
 		<p>
 			<span class="font-semibold">PR Associates:</span> Andrew Ikemoto, Srimanas Adaki, & Simar Rajpal
 		</p>
+		<br />
 		<p>
 			<span class="font-semibold">Webmaster:</span> Dhairya Sarvaiya
 		</p>
