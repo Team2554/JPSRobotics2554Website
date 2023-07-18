@@ -30,6 +30,12 @@ How to Become a Sponsor
 
 <div class="border border-zinc-300 mt-6 max-w-4xl rounded mx-auto" />
 
+
+<div class="max-w-4xl mx-auto mt-14">
+	<img src="/Optimum-Logo.png" class="mx-auto mt-8" width="80%" alt="Optimum Logo" />
+</div>
+
+
 <div class="max-w-4xl mx-auto mt-14">
 	<img src="/first-logo.png" class="mx-auto mt-8" width="60%" alt="FIRST Logo" />
 </div>
