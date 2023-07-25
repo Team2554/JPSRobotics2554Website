@@ -22,7 +22,7 @@
 		</div>
 		<div class="flex flex-col">
 			<p class="text-center text-lg font-medium">
-				To see our past performance and keep up to date, ​check out our blue alliance page.
+				To see our past performance and keep up to date, ​check out our Blue Alliance page.
 			</p>
 			<a
 				class="btn"
