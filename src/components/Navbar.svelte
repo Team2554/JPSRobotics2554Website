@@ -5,7 +5,7 @@
 </script>
 
 <nav
-	class={`py-3 px-10 fixed w-full top-0 border-zinc-300 select-none flex justify-between items-center bg-zinc-800 ${
+	class={`py-3 px-10 fixed w-full top-0 border-zinc-300 select-none flex justify-between items-center bg-zinc-800 z-50 ${
 		scrollY > 20 ? 'border-b-4' : 'border-b-0'
 	}`}
 >

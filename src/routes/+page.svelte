@@ -1,4 +1,6 @@
 <script lang="ts">
+	import PlatinumSponsor from "../components/PlatinumSponsor.svelte";
+
 	let carouselImage = 1;
 </script>
 
@@ -10,6 +12,14 @@
 	<img src="/warhawks-logo-2-smol_orig.png" alt="Warhawks Logo" />
 </div>
 <div class="border border-zinc-300 mt-10 max-w-4xl rounded mx-auto" />
+
+<!-- Use <PlatinumSponsor>s inside -->
+<!--
+<div class="p-5 w-80 absolute right-0 bg-slate-50">
+	<h3 class="text-center font-bold">A SPECIAL THANKS TO OUR PLATINUM SPONSORS!</h3>
+</div>
+-->
+
 <div class="max-w-5xl mx-auto mt-5 grid grid-cols-2 pt-2 space-x-6">
 	<div>
 		<div class="flex flex-row">
