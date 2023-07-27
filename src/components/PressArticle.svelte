@@ -1,5 +1,5 @@
 
-<a href={articleURL} class="hover:bg-slate-100">
+<a href={articleURL} class="hover:bg-slate-100" target="_blank">
     <div class="flex flex-col p-5">
         <p class="text-center text-lg font-medium">
             {articleTitle}
