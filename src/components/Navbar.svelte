@@ -15,6 +15,7 @@
 		<a class="nav-item" href="/executive-board">Executive Board</a>
 		<a class="nav-item" href="/sponsors">Sponsors</a>
 		<a class="nav-item" href="/gallery">Gallery</a>
+		<a class="nav-item" href="/press">Press</a>
 		<a class="nav-item" href="/info">Info</a>
 	</div>
 </nav>
