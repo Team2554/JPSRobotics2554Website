@@ -1,3 +1,8 @@
+<script>
+	import SponsorProfile from "../../components/SponsorProfile.svelte";
+	import SponsorWebsiteWrapper from "../../components/SponsorWebsiteWrapper.svelte";
+
+</script>
 <svelte:head>
 	<title>Team 2554: Sponsors</title>
 </svelte:head>
@@ -30,12 +35,10 @@ How to Become a Sponsor
 
 <div class="border border-zinc-300 mt-6 max-w-4xl rounded mx-auto" />
 
+<SponsorWebsiteWrapper sponsorWebsiteURL="https://www.optimum.com/">
+	<SponsorProfile sponsorImgURL="/Optimum-Logo.png" sponsorName="Optimum" sponsorBlurb="Optimum provides cost-effective and reliable internet and television services throughout the United States." />
+</SponsorWebsiteWrapper>
 
-<div class="max-w-4xl mx-auto mt-14">
-	<img src="/Optimum-Logo.png" class="mx-auto mt-8" width="80%" alt="Optimum Logo" />
-</div>
-
-
-<div class="max-w-4xl mx-auto mt-14">
-	<img src="/first-logo.png" class="mx-auto mt-8" width="60%" alt="FIRST Logo" />
-</div>
+<SponsorWebsiteWrapper sponsorWebsiteURL="https://www.firstinspires.org/">
+	<SponsorProfile sponsorImgURL="/first-logo.png" sponsorName="FIRST" sponsorBlurb="FIRST inspires young people to be science and technology leaders and innovators by engaging them in exciting mentor-based programs that build science, engineering, and technology skills, that inspire innovation, and that foster well-rounded life capabilities including self-confidence, communication, and leadership." sponsorImgWidth="40%"/>
+</SponsorWebsiteWrapper>
