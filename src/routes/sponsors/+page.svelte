@@ -43,6 +43,10 @@ How to Become a Sponsor
 	<SponsorProfile sponsorImgURL="/Optimum-Logo.png" sponsorName="Optimum" sponsorBlurb="Optimum provides cost-effective and reliable internet and television services throughout the United States." />
 </SponsorWebsiteWrapper>
 
+<SponsorWebsiteWrapper sponsorWebsiteURL="https://www.cma-cgm.com/">
+	<SponsorProfile sponsorImgURL="/CMACGM.png" sponsorName="CMA CGM Group" sponsorBlurb="Led by Rodolphe Saadé, the CMA CGM Group, a global player in sea, land, air and logistics solutions, serves more than 420 ports around the world across 5 continents, with a fleet of 584 vessels. Firmly committed to the energy transition in shipping and a pioneer in its use of alternative fuels, the CMA CGM Group has set a Net Zero-Carbon target for 2050. Present in 160 countries through its network of more than 400 offices and 750 warehouses, the Group employs 155,000 people worldwide, including around 4,000 in Marseille where its head office is located." />
+</SponsorWebsiteWrapper>
+
 <SponsorWebsiteWrapper sponsorWebsiteURL="https://www.firstinspires.org/">
 	<SponsorProfile sponsorImgURL="/first-logo.png" sponsorName="FIRST" sponsorBlurb="FIRST inspires young people to be science and technology leaders and innovators by engaging them in exciting mentor-based programs that build science, engineering, and technology skills, that inspire innovation, and that foster well-rounded life capabilities including self-confidence, communication, and leadership." sponsorImgWidth="40%"/>
 </SponsorWebsiteWrapper>
