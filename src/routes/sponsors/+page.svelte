@@ -35,12 +35,18 @@ How to Become a Sponsor
 
 <div class="border border-zinc-300 mt-6 max-w-4xl rounded mx-auto" />
 
+<SponsorProfile sponsorImgURL="/picatinny.jpg" sponsorName="Picatinny Arsenal STEM" />
+
 <SponsorWebsiteWrapper sponsorWebsiteURL="https://olightworld.com/">
 	<SponsorProfile sponsorImgURL="/olight.jpg" sponsorName="Olight" sponsorBlurb="OLIGHT is a leading provider of portable lighting solutions, dedicated to its mission of &quot;illuminating the world&quot;. Our diverse range of products serves various scenarios, including household, outdoor, and other applications. Our products are sold and utilized across Europe, the Americas, and other regions worldwide."/>
 </SponsorWebsiteWrapper>
 
 <SponsorWebsiteWrapper sponsorWebsiteURL="https://www.optimum.com/">
 	<SponsorProfile sponsorImgURL="/Optimum-Logo.png" sponsorName="Optimum" sponsorBlurb="Optimum provides cost-effective and reliable internet and television services throughout the United States." />
+</SponsorWebsiteWrapper>
+
+<SponsorWebsiteWrapper sponsorWebsiteURL="https://www.lockheedmartin.com/en-us/index.html">
+	<SponsorProfile sponsorImgURL="/lockheed.png" sponsorName="Lockheed Martin" />
 </SponsorWebsiteWrapper>
 
 <SponsorWebsiteWrapper sponsorWebsiteURL="https://www.cma-cgm.com/">
