@@ -42,7 +42,7 @@
 			<br />
 			<p>
 				​Our team is divided into four separate sub-teams: Mechanical, Electrical, Programming, and
-				Marketing. Although each individual group specializes in their field, all of the sub-teams
+				<s>Marketing</s> Operations. Although each individual group specializes in their field, all of the sub-teams
 				come together to create a well-functioning robot for the competition.
 			</p>
 		</div>
