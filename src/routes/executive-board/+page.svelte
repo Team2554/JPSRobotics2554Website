@@ -4,12 +4,12 @@
 
 <div class="p-20 bg-emerald-900 text-center flex flex-col justify-center align-middle">
 	<h1 class="text-7xl uppercase text-white font-semibold">The Executive Board</h1>
-	<h2 class="text-white mt-4 text-xl">This is our 2023-2024 Robotics Executive Board!</h2>
+	<h2 class="text-white mt-4 text-xl">This is our 2024-2025 Robotics Executive Board!</h2>
 	<div class="border border-green-800 mt-6 rounded" />
 	<div class="grid grid-cols-3 text-white mt-5">
 		<div>
 			<h3 class="text-3xl uppercase font-bold">Build Presidents</h3>
-			<p class="text-2xl mt-4">Krishan Trikha & Naishadh Patel</p>
+			<p class="text-2xl mt-4">Aditya Saini & Adway Chawathe</p>
 		</div>
 		<div>
 			<h3 class="text-3xl uppercase font-bold">Club Advisor</h3>
@@ -17,45 +17,36 @@
 		</div>
 		<div>
 			<h3 class="text-3xl uppercase font-bold">Administrative President</h3>
-			<p class="text-2xl mt-4">Sai Voruganti</p>
+			<p class="text-2xl mt-4">Anumeha Haldar</p>
 		</div>
 	</div>
 </div>
 
 <h2 class="uppercase text-center text-4xl font-medium text-green-900 mt-10">
-	2024 Subteam Captains
+	2025 Subteam Captains
 </h2>
 
 <div class="max-w-5xl mx-auto pt-2">
 	<div class="text-center mt-7 text-2xl">
 		<p>
-			<span class="font-semibold">Mechanical Captains:</span> Anuj Choudhari, Adway Chawathe, Daniel
+			<span class="font-semibold">Mechanical Captains:</span> Jahnavi Singh, Mahika Padole, Daniel
 			Park, & Ishaan Brahma
 		</p>
 		<br />
 		<p>
-			<span class="font-semibold">Electrical Captains:</span> Pranaya Murugan, Dev Shah, Arjun Chainani,
-			& Zulal Ozgur
+			<span class="font-semibold">Electrical Captains:</span> Kavish Goel & Harris Nazeer
 		</p>
 		<br />
 		<p>
-			<span class="font-semibold">Programming Captains:</span> Amruth Nadimpally & Aditya Saini
+			<span class="font-semibold">Programming Captains:</span> Amruth Nadimpally, Tanish Mittal, & Dhariya Sarvaiya
 		</p>
 		<br />
 		<p>
-			<span class="font-semibold">Safety Captain:</span> Jahnavi Singh
+			<span class="font-semibold">Safety Captain:</span> Shashta Venkat
 		</p>
 		<br />
 		<p>
-			<span class="font-semibold">PR, Communications, and Social Media Manager:</span> Troy Gunawardene
-		</p>
-		<br />
-		<p>
-			<span class="font-semibold">PR Associates:</span> Andrew Ikemoto, Srimanas Adaki, & Simar Rajpal
-		</p>
-		<br />
-		<p>
-			<span class="font-semibold">Webmaster:</span> Dhairya Sarvaiya
+			<span class="font-semibold">Strategy Coordinator/Coach:</span> Ved Dwivedi
 		</p>
 	</div>
 </div>
@@ -65,6 +56,10 @@
 <div class="pt-2 pb-10 mt-12 bg-amber-400">
 	<h2 class="uppercase text-center text-4xl font-medium text-green-900 mt-10">Legacy</h2>
 	<div class="text-center mt-7 text-2xl">
+		<p>
+			<span class="font-semibold">2024 Presidents:</span> Sai Voruganti, Krishan Trikha, Naishadh Patel
+		</p>
+		<br />
 		<p>
 			<span class="font-semibold">2023 Presidents:</span> Nazmin Abbasi & Vivek Isukapalli
 		</p>
