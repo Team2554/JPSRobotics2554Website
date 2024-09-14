@@ -61,7 +61,7 @@
 		</p>
 		<br />
 		<p>
-			<span class="font-semibold"Director of Video Production:</span> Saanvi Budigam
+			<span class="font-semibold">Director of Video Production:</span> Saanvi Budigam
 		</p>
 		<br />
 		<p>
