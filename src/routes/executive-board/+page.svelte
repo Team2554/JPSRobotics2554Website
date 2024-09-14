@@ -29,8 +29,7 @@
 <div class="max-w-5xl mx-auto pt-2">
 	<div class="text-center mt-7 text-2xl">
 		<p>
-			<span class="font-semibold">Mechanical Captains:</span> Jahnavi Singh, Mahika Padole, Daniel
-			Park, & Ishaan Brahma
+			<span class="font-semibold">Mechanical Captains:</span> Jahnavi Singh, Mahika Padole, & Ishaan Brahma
 		</p>
 		<br />
 		<p>
@@ -42,11 +41,31 @@
 		</p>
 		<br />
 		<p>
-			<span class="font-semibold">Safety Captain:</span> Shashta Venkat
+			<span class="font-semibold">Safety Captain:</span> Shastha Venkatesh 
 		</p>
 		<br />
 		<p>
 			<span class="font-semibold">Strategy Coordinator/Coach:</span> Ved Dwivedi
+		</p>
+		<br />
+		<p>
+			<span class="font-semibold">Funding Manager:</span> Saanvi Budigam
+		</p>
+		<br />
+		<p>
+			<span class="font-semibold">PR Manager:</span> Olivia Dutta
+		</p>
+		<br />
+		<p>
+			<span class="font-semibold">Operations Programming Manager:</span> Abir Modak
+		</p>
+		<br />
+		<p>
+			<span class="font-semibold"Director of Video Production:</span> Saanvi Budigam
+		</p>
+		<br />
+		<p>
+			<span class="font-semibold">Mentoring Liaisons:</span> Jahnavi Singh and Meer Patel
 		</p>
 	</div>
 </div>
