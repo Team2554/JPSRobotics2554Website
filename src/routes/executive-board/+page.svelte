@@ -9,7 +9,7 @@
 	<div class="grid grid-cols-3 text-white mt-5">
 		<div>
 			<h3 class="text-3xl uppercase font-bold">Build Presidents</h3>
-			<p class="text-2xl mt-4">Aditya Saini & Adway Chawathe</p>
+			<p class="text-2xl mt-4">Aditya Saini & Adi Chawathe</p>
 		</div>
 		<div>
 			<h3 class="text-3xl uppercase font-bold">Club Advisor</h3>
@@ -29,7 +29,7 @@
 <div class="max-w-5xl mx-auto pt-2">
 	<div class="text-center mt-7 text-2xl">
 		<p>
-			<span class="font-semibold">Mechanical Captains:</span> Jahnavi Singh, Mahika Padole, & Ishaan Brahma
+			<span class="font-semibold">Mechanical Captains:</span> Medhansh Gada, Jahnavi Singh, Mahika Padole, & Ishaan Brahma
 		</p>
 		<br />
 		<p>
@@ -49,19 +49,11 @@
 		</p>
 		<br />
 		<p>
-			<span class="font-semibold">Funding Manager:</span> Saanvi Budigam
-		</p>
-		<br />
-		<p>
 			<span class="font-semibold">PR Manager:</span> Olivia Dutta
 		</p>
 		<br />
 		<p>
 			<span class="font-semibold">Operations Programming Manager:</span> Abir Modak
-		</p>
-		<br />
-		<p>
-			<span class="font-semibold">Director of Video Production:</span> Saanvi Budigam
 		</p>
 		<br />
 		<p>
